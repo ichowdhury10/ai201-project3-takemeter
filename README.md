@@ -1,14 +1,14 @@
-# TakeMeter — r/nba Discourse Classifier
+# TakeMeter — r/Soccer Discourse Classifier
 
-Fine-tuned text classifier that labels r/nba posts as `analysis`, `hot_take`, or `reaction`. Built for AI201 Project 3.
+Fine-tuned text classifier that labels r/soccer posts as `analysis`, `hot_take`, or `reaction`. Built for AI201 Project 3.
 
 ---
 
 ## Community Choice
 
-**r/nba** (NBA basketball subreddit, ~3.7M members)
+**r/soccer** (World Soccer subreddit, ~3.7M members)
 
-r/nba is a good fit for a classification task because discourse quality is visibly stratified and the community explicitly argues about it. Some posts do real analytical work — citing stats, historical context, tactical observations. Others are pure assertive takes with no evidence. Others are immediate fan reactions to game events. These distinctions are not only real; they are things community members actively call out ("that's a trash take," "actually good analysis"). The labels reflect distinctions the community already cares about, not external categories imposed on it.
+r/soccer is a good fit for a classification task because discourse quality is visibly stratified and the community explicitly argues about it. Some posts do real analytical work — citing stats, historical context, tactical observations. Others are pure assertive takes with no evidence. Others are immediate fan reactions to game events. These distinctions are not only real; they are things community members actively call out ("that's a trash take," "actually good analysis"). The labels reflect distinctions the community already cares about, not external categories imposed on it.
 
 ---
 
@@ -56,7 +56,7 @@ r/nba is a good fit for a classification task because discourse quality is visib
 
 **Three difficult-to-label examples:**
 
-1. **Text:** "LeBron's playoff record against top-seeded opponents is below .500 so he's overrated."
+1. **Text:** "Ronaldo record against top-seeded opponents is below .500 so he's overrated."
    **Challenge:** Cites a real statistic but the stat is cherry-picked and doesn't do real argumentative work — the claim would stand even without it. **Decision:** `hot_take`. Removing the stat leaves the assertion unchanged.
 
 2. **Text:** "This trade is terrible and they're going to regret it for 5 years."
