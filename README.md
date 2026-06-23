@@ -22,17 +22,18 @@ r/soccer is a good fit for a classification task because discourse quality is vi
 
 **Examples per label:**
 
-*analysis:*
-- "Jokic's playoff PER of 28.1 is the highest among active players with 10+ postseason games, above Durant (27.3) and LeBron (27.9). He's historically dominant when it matters most."
-- "The Celtics' defensive rating in the last 15 games is 104.2 — top 3 in the league. The difference is how they've adjusted to hedge on screens rather than going under."
+analysis:
 
-*hot_take:*
-- "LeBron is the most overrated player in NBA history. Always had superteams and still chokes in big games. His fans are completely delusional."
-- "Luka is not a top 5 player. His defense is a joke and he disappears in big games. Overrated by media."
+"Manchester City's PPDA this season is 7.8, best in the Premier League. That number means opponents barely get 8 passes before City press them into a mistake — Guardiola hasn't just built a good team, he's built a machine that makes other teams look structurally broken."
+"Messi's 2011-12 season is statistically the greatest individual season in football history. 91 goals in all competitions, 1.06 goals per 90, and a hat-trick rate of nearly 1 in 5 games. No one has come within 20 goals of that output since."
+hot_take:
 
-*reaction:*
-- "I CANNOT BELIEVE THEY JUST BLEW A 20-POINT LEAD. Three games in a row. This team is going to give me a heart attack."
-- "No way. No WAY they just traded him. I was not ready for this. What even is this offseason."
+"Mbappe is overrated and I will die on this hill. He's fast and scores goals but his decision-making in big games is embarrassing. PSG carried him to every semifinal he's ever been in."
+"The Premier League is the most overrated league in Europe. People act like it's the pinnacle of football but technically it's behind La Liga and Serie A. The quality is just hidden behind pace and physicality."
+reaction:
+
+"I CANNOT BELIEVE THEY JUST BLEW A 3-0 LEAD. Three. Nothing. In the 85th minute. I am physically shaking. This team is going to kill me."
+"Wait they just announced that transfer?? At this time of night?? I was literally going to bed and now I cannot breathe."
 
 ---
 
